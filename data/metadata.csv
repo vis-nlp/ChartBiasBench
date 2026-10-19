@@ -1,0 +1,920 @@
+image_file,topic,chart_kind,Is this sample good?,Race,Income,Age,Religion,Immigration Status,Gender,sentiment
+oecd_1.png,life expectancy,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_10.png,out-of-school primary-age children,area,Yes,No,Yes,No,Yes,Yes,Yes,negative
+oecd_100.png,productivity per hour worked,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_101.png,productivity per hour worked,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_102.png,productivity output per hour,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_103.png,labor productivity per hour,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_104.png,annual working hours per person,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_105.png,annual working hours per employee,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_106.png,marriage rates per 1000 people,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_107.png,marriage rates,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_108.png,"marriage rate per 1,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_109.png,"marriage rates per 1,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_11.png,global literacy rate,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_110.png,"divorce rate per 1,000 people",line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_111.png,"divorce rate per 1,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_112.png,divorce rate,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_113.png,one-person households percentage,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_114.png,one-person households percentage,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_115.png,percentage of one-person households,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_116.png,adults living alone rate,line,Yes,No,Yes,No,Yes,Yes,Yes,neutral
+oecd_117.png,percentage of adults living alone,line,Yes,Yes,No,No,Yes,Yes,Yes,neutral
+oecd_118.png,self-reported life satisfaction,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_119.png,self-reported life satisfaction,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_12.png,R&D researchers per million population,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_120.png,homicide death share,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_121.png,homicide death share,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_122.png,homicide death percentage,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_123.png,homicide death share,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_124.png,"homicide rate per 100,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_125.png,Homicide rate,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_126.png,"homicide rate per 100,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_127.png,"homicide rate per 100,000 people",line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_128.png,homicide rate from firearms,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_129.png,firearm homicide rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_13.png,population internet usage share,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_130.png,homicide rate from firearms,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_131.png,firearm-related homicide rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_132.png,homicide rate for ages 15-49,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+oecd_133.png,homicide rate ages 15-49,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+oecd_134.png,homicide rate for 15-49 year olds,line,Yes,No,Yes,No,Yes,Yes,Yes,negative
+oecd_135.png,prison population rate,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_136.png,prison population rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_137.png,prison population rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_138.png,monthly advance premium tax credit,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_139.png,ACA exchange plans enrollment,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_14.png,reported homelessness share,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_140.png,Liberal Democracy Index,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_141.png,liberal democracy index,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_142.png,liberal democracy index over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_143.png,Liberal Democracy Index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_144.png,freedom of expression index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_145.png,freedom of expression index,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_146.png,freedom of expression index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_147.png,engaged society score,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_148.png,engaged society score,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_149.png,Engaged Society Score,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_15.png,death rate from unsafe sanitation,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_150.png,freedom score,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_151.png,freedom score,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_152.png,freedom score,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_153.png,freedom score over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_154.png,centralization of political power,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_155.png,centralization of political power,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_156.png,political power centralization index,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_157.png,equal resource distribution index,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_158.png,equal resource distribution index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_159.png,Equal Resource Distribution Index,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_16.png,annual working hours per worker,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_160.png,equal resource distribution index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_161.png,academic freedom index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_162.png,academic freedom index,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_163.png,academic freedom index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_164.png,child employment share,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+oecd_165.png,violent victimization rate in schools,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_166.png,out-of-school primary-age children,area,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_167.png,Out-of-school primary-age children,area,Yes,Yes,No,No,Yes,Yes,Yes,positive
+oecd_168.png,average years of schooling,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_169.png,average years of schooling,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+oecd_17.png,weekly working hours,line,Yes,Yes,No,Yes,Yes,Yes,No,positive
+oecd_170.png,average years of schooling,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_171.png,literacy rate among older adults,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+oecd_172.png,literacy rate among older adults,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_173.png,literacy rates among older adults,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+oecd_174.png,literacy rates among young people,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+oecd_175.png,youth literacy rates,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_176.png,expected years in tertiary education,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_177.png,expected years in tertiary education,line,Yes,No,Yes,No,Yes,Yes,Yes,neutral
+oecd_178.png,tertiary education years expected,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_179.png,average years of schooling,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_18.png,"divorce rate per 1,000 people",line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_180.png,average years of schooling,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+oecd_181.png,average years of schooling,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_182.png,tertiary education enrollment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_183.png,tertiary education enrollment share,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_184.png,tertiary education enrollment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_185.png,patent applications per capita,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_186.png,annual patent applications per capita,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_187.png,patent applications per million people,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_188.png,annual patent applications per capita,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_189.png,annual patent applications rate,line,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+oecd_19.png,total fertility rate,line,Yes,No,Yes,No,Yes,Yes,No,neutral
+oecd_190.png,book consumption per capita,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_191.png,new book titles per million people,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_192.png,new book titles per capita,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_193.png,new book titles per million people,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_194.png,personal income tax as GDP percentage,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_195.png,life expectancy at birth,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_196.png,future population projections,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_197.png,life expectancy at birth,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_198.png,personal income tax as GDP percentage,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_199.png,population projections,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_2.png,child mortality rate,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+oecd_20.png,total fertility rate,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+oecd_200.png,life expectancy at birth,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_201.png,population projections,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_202.png,working age population percentage,line,Yes,Yes,No,No,Yes,Yes,Yes,negative
+oecd_203.png,elderly population percentage,line,Yes,Yes,No,No,Yes,Yes,Yes,neutral
+oecd_204.png,population projections,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_205.png,life expectancy at birth,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_206.png,Tax on personal income as GDP percentage,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_207.png,population projections,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_208.png,life expectancy at birth,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_209.png,population projections,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_21.png,total fertility rate,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+oecd_210.png,life expectancy at birth,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_211.png,population projections,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_212.png,Tax on personal income,line,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+oecd_213.png,life expectancy at birth,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_22.png,average age of mothers at childbirth,line,Yes,Yes,No,Yes,Yes,Yes,No,neutral
+oecd_23.png,average age at childbirth,line,Yes,Yes,No,Yes,Yes,Yes,No,neutral
+oecd_24.png,average age at childbirth,line,Yes,Yes,No,Yes,Yes,Yes,No,neutral
+oecd_25.png,youth mortality rate,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_26.png,youth mortality rate,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+oecd_27.png,youth mortality rate,line,Yes,No,Yes,No,Yes,Yes,Yes,neutral
+oecd_28.png,youth mortality rate,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_29.png,child mortality rate per woman,line,Yes,No,No,Yes,Yes,Yes,No,positive
+oecd_3.png,suicide rate,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_30.png,child mortality rate per woman,line,Yes,Yes,Yes,Yes,Yes,Yes,No,positive
+oecd_31.png,child mortality rate per woman,line,Yes,No,No,Yes,Yes,Yes,No,positive
+oecd_32.png,child mortality rate per woman,line,Yes,No,No,Yes,Yes,Yes,No,positive
+oecd_33.png,Underweight children statistics,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_34.png,number of underweight children,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+oecd_35.png,underweight children numbers,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_36.png,median age over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_37.png,median age over time,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_38.png,median age,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_39.png,population median age,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_4.png,"suicide rate per 100,000 people",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_40.png,urban population in slums,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_41.png,urban population living in slums,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_42.png,urban population in slums,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_43.png,urban slum population,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_44.png,urban slum household population,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_45.png,undernourishment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_46.png,undernourishment rate,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_47.png,undernourishment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_48.png,undernourishment share,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_49.png,child stunting rate,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_5.png,death rate from cardiovascular diseases,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_50.png,child stunting rate,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_51.png,child stunting prevalence,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+oecd_52.png,child malnutrition rate,line,Yes,No,No,No,Yes,Yes,Yes,negative
+oecd_53.png,child malnutrition rates,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_54.png,malnutrition in young children,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+oecd_55.png,malnutrition rate in children,line,Yes,No,Yes,No,Yes,Yes,Yes,negative
+oecd_56.png,malnutrition rate in children,line,Yes,No,No,No,Yes,Yes,Yes,positive
+oecd_57.png,severe food insecurity,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_58.png,severe food insecurity count,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_59.png,severe food insecurity population,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_6.png,maternal mortality ratio,line,Yes,Yes,Yes,Yes,Yes,Yes,No,positive
+oecd_60.png,malnutrition death rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_61.png,malnutrition death rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_62.png,death rate from malnutrition,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_63.png,death rate from malnutrition,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_64.png,food insecurity levels,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_65.png,food insecurity levels,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_66.png,food insecurity prevalence,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_67.png,food insecurity trends,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_68.png,per capita protein supply,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_69.png,daily per capita protein supply,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_7.png,overweight adult share,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_70.png,daily per capita protein supply,line,Yes,No,No,Yes,Yes,Yes,Yes,positive
+oecd_71.png,per capita protein supply,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_72.png,daily protein supply per capita,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_73.png,daily calorie supply per person,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_74.png,caloric supply per person,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_75.png,daily calorie supply per person,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_76.png,daily per capita fat supply,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_77.png,dietary fat supply per capita,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_78.png,daily dietary fat supply per capita,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_79.png,daily per capita fat supply,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_8.png,child overweight or obesity rate,line,Yes,No,Yes,No,Yes,Yes,Yes,negative
+oecd_80.png,daily per capita fat supply,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_81.png,daily per capita fat supply,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_82.png,cocoa bean consumption per capita,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_83.png,cocoa consumption per capita,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_84.png,cocoa bean consumption per capita,line,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+oecd_85.png,cocoa bean consumption per person,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_86.png,affordability of healthy diet,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+oecd_87.png,population unable to afford healthy diet,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+oecd_88.png,affordability of healthy diet,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_89.png,unaffordable healthy diet population,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+oecd_9.png,adult obesity prevalence,line,Yes,Yes,No,No,Yes,Yes,Yes,negative
+oecd_90.png,affordability of healthy diet,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_91.png,unaffordable healthy diet population,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+oecd_92.png,death rate from low physical activity,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+oecd_93.png,death rate from low physical activity,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_94.png,death rate due to inactivity,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+oecd_95.png,death rate from low physical activity,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+oecd_96.png,share of people experiencing homelessness,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_97.png,share of people experiencing homelessness,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+oecd_98.png,share of people experiencing homelessness,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+oecd_99.png,homelessness rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_1077.png,single father households growth,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+pew_1085.png,households with student debt,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+pew_1093.png,non-fatal violent crime rate,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+pew_116.png,perception of globalization benefits,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+pew_1166.png,perception of job situation news,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+pew_1177.png,impact of student loans on borrowers,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+pew_125.png,incarceration rate,line,Yes,No,Yes,No,Yes,Yes,Yes,positive
+pew_1264.png,public opinion on crime policies,bar,Yes,Yes,No,Yes,Yes,No,Yes,neutral
+pew_1288.png,Full-time employment of graduates,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+pew_1394.png,broadband access by area type,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_1440.png,factors influencing economic evaluations,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+pew_156.png,experience of online harassment,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_157.png,U.S. unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_158.png,average household size over time,line,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+pew_177.png,refugees resettled by state,bar,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+pew_178.png,average household size,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_186.png,active shooter incidents by year,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_187.png,student loan debt by age group,bar,Yes,No,No,No,Yes,Yes,Yes,negative
+pew_188.png,student loan debt by education level,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+pew_192.png,teen birth rates,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+pew_194.png,Nonwhite college students and faculty percentage,area,Yes,Yes,Yes,Yes,Yes,No,Yes,positive
+pew_201.png,teen depression rates,bar,Yes,Yes,Yes,No,Yes,Yes,No,negative
+pew_214.png,median years of residence for unauthorized immigrants,line,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+pew_218.png,federal criminal case outcomes 2018,other,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+pew_221.png,news consumption by social media,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_225.png,midterm election voter turnout,line,Yes,No,Yes,Yes,Yes,Yes,No,positive
+pew_266.png,U.S. unauthorized immigrant population,line,Yes,Yes,No,Yes,Yes,No,Yes,negative
+pew_267.png,cyberbullying experiences among U.S. teens,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_269.png,cash usage by income level,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+pew_27.png,smartphone owners without home broadband,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_270.png,reasons not expecting more children,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+pew_272.png,Generational composition of U.S. House,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+pew_28.png,internet usage among U.S. adults,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_288.png,U.S.-born children of unauthorized immigrants,line,Yes,Yes,No,Yes,Yes,No,Yes,neutral
+pew_29.png,home broadband usage in U.S.,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+pew_299.png,College graduation rate by generation,bar,Yes,Yes,No,No,Yes,Yes,Yes,positive
+pew_30.png,non-broadband smartphone usage rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_300.png,Facebook user activity changes,bar,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+pew_301.png,public confidence in institutions,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_304.png,expectation of female president,bar,Yes,No,Yes,Yes,Yes,Yes,No,negative
+pew_31.png,social media usage percentage,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_335.png,First births among Millennial women,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+pew_338.png,U.S. incarceration rates over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_340.png,multigenerational households in the US,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_341.png,marriage rate among U.S. adults,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+pew_373.png,percentage of unpartnered adults by age,bar,Yes,Yes,No,No,Yes,Yes,Yes,neutral
+pew_402.png,severe poverty among Americans,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+pew_415.png,single-mother households by generation,bar,Yes,No,Yes,No,Yes,Yes,No,neutral
+pew_418.png,perception of jury duty as citizenship,bar,Yes,No,No,No,Yes,Yes,Yes,neutral
+pew_421.png,online harassment perpetrators,bar,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+pew_429.png,reasons for online harassment,bar,Yes,Yes,No,Yes,No,Yes,No,negative
+pew_430.png,household gun presence by upbringing,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_434.png,reasons for gun ownership,bar,Yes,No,No,Yes,Yes,Yes,Yes,neutral
+pew_436.png,LGBT identification in U.S. adults,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+pew_470.png,paternity and maternity leave opinions,bar,Yes,Yes,No,Yes,Yes,Yes,No,neutral
+pew_471.png,paid family leave by employer size,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+pew_486.png,part-time economic reasons,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_497.png,female share of labor force,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+pew_502.png,federal prison population over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_503.png,reaction to election coverage,other,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_505.png,world population displacement rate,line,Yes,Yes,Yes,Yes,Yes,No,Yes,negative
+pew_529.png,forcibly displaced population percentage,line,Yes,No,Yes,Yes,Yes,No,Yes,negative
+pew_540.png,voter feelings about campaign,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+pew_569.png,Zika virus risk reduction actions,other,Yes,No,No,Yes,Yes,Yes,Yes,negative
+pew_585.png,young adults living with parents,line,Yes,No,Yes,No,Yes,Yes,Yes,negative
+pew_624.png,"teen birthrate per 1,000 women",line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+pew_625.png,unemployment rate and employment ratio,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+pew_626.png,percentage with higher education,line,Yes,No,No,No,Yes,Yes,Yes,positive
+pew_723.png,unemployment rates by age group,bar,Yes,Yes,No,No,Yes,Yes,Yes,negative
+pew_730.png,perception of crime rate vs reality,line,Yes,Yes,No,No,Yes,Yes,Yes,positive
+pew_766.png,median duration of unemployment,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_80.png,foreign-born population percentage in US,line,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+pew_845.png,marriage rate for adults,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+pew_852.png,multiple jobholders as share of employed,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+pew_883.png,payroll employment and job shortfall,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+pew_901.png,U.S. hiring rate,line,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+pew_903.png,After-tax income trends by percentile,line,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+pew_915.png,child-care expenses for employed mothers,area,Yes,Yes,No,Yes,Yes,Yes,No,negative
+pew_933.png,marriage rate by generation,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+pew_938.png,Internet usage among American adults,area,Yes,No,No,Yes,Yes,Yes,Yes,positive
+pew_944.png,Minimum wage and poverty thresholds,line,Yes,No,No,No,Yes,Yes,Yes,negative
+statista_5270.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5297.png,number of criminal acts,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+statista_5313.png,unemployment rate,line,Yes,No,No,Yes,Yes,Yes,Yes,negative
+statista_5317.png,unemployment rate,line,Yes,No,Yes,Yes,Yes,Yes,Yes,positive
+statista_5329.png,education level distribution,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_5354.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5397.png,fertility rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_5415.png,high school graduation rate,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_5418.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5422.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5449.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_5515.png,"violent crime rate per 100,000 residents",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_5522.png,average income over time,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5557.png,unemployment rate,line,Yes,No,Yes,Yes,Yes,Yes,Yes,negative
+statista_556.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_557.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5606.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_565.png,annual number of offenses,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_5665.png,"property crime rate per 100,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_5669.png,unemployment rate,line,Yes,Yes,Yes,Yes,No,Yes,No,neutral
+statista_5672.png,number of employees,bar,Yes,Yes,Yes,Yes,No,Yes,Yes,positive
+statista_5683.png,income per capita by country,bar,Yes,Yes,Yes,No,No,Yes,No,neutral
+statista_57.png,Number of employees in millions,line,Yes,Yes,Yes,Yes,No,Yes,Yes,positive
+statista_5759.png,unemployment rate,line,No,Yes,Yes,Yes,No,Yes,No,neutral
+statista_5766.png,unemployment rate,line,Yes,Yes,Yes,Yes,No,Yes,No,neutral
+statista_5821.png,Earnings in U.S. dollars,line,Yes,Yes,Yes,Yes,No,Yes,Yes,positive
+statista_5846.png,unemployment rate,line,Yes,Yes,Yes,Yes,No,Yes,Yes,positive
+statista_5874.png,employment numbers by year,bar,Yes,Yes,Yes,Yes,No,Yes,Yes,negative
+statista_5915.png,unemployment rate,bar,No,Yes,Yes,Yes,No,Yes,No,neutral
+statista_5928.png,prison population and capacity,bar,Yes,Yes,Yes,Yes,Yes,Yes,No,negative
+statista_5944.png,life expectancy at birth,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_5948.png,Youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_6008.png,fertility rate over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6012.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6014.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6039.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6047.png,employment in millions,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6056.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6093.png,suicide rate by age group,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_6096.png,labor force participation rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6100.png,average annual wages in euros,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_612.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6125.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6163.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6192.png,infant mortality rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6206.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6274.png,infant mortality rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6315.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_6328.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6357.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6396.png,number of unemployed in millions,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_640.png,"crimes per 1,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_641.png,"homicide deaths per 100,000 population",bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6412.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6428.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6456.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6468.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6496.png,university student enrollment,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6497.png,homicide rate by region,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6506.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_6532.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6574.png,weekly hours worked in millions,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6582.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_6589.png,number of students enrolled,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6593.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_66.png,monthly unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6684.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6689.png,Hourly wages by state,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_6717.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6724.png,Average income in Canada,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_6725.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6751.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6754.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_6763.png,monthly unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6775.png,university average test scores,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_6810.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6822.png,average annual wages in euros,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_6857.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_6950.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_6958.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_6970.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_700.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_7024.png,Disposable income by decile group,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_7062.png,fertility rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+statista_7099.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_7117.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_7210.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_7212.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7227.png,unemployment in millions,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7247.png,educational challenges,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_7250.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_7260.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_7261.png,income range online reach,bar,No,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_733.png,number of forcible rapes by state,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_7344.png,average income in U.S. dollars,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_7349.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7381.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7427.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_7469.png,average custodial sentence length,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_7495.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_7541.png,offense clearance rate by arrest,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7558.png,household income in USD,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_7561.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7571.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7611.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7630.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_765.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_7657.png,life expectancy at birth,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_7664.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_7670.png,"homicide rate per 100,000 inhabitants",bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_7691.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7709.png,homicide rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7778.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7795.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_7802.png,household income in U.S. dollars,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_7825.png,education level distribution,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_7837.png,annual job numbers,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_784.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_7923.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7932.png,Share of U.S. students by major,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_7952.png,respondent share by income range,bar,No,No,No,No,No,No,No,neutral
+statista_7970.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_7977.png,household income in USD,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_7995.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8005.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8006.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8011.png,youth crime severity index,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_8020.png,mean wage and salary,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_8070.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_8083.png,"homicide rate per 100,000 inhabitants",bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_8114.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_8155.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_8157.png,life expectancy at birth,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_8161.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_8217.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_8235.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_8248.png,"crime rate per 1,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8257.png,life expectancy over time,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_8283.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8309.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8344.png,annual immigrants count,bar,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+statista_8375.png,youth unemployment rate,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_8397.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_8427.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_8433.png,Household income reach distribution,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_8463.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_8481.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_85.png,U.S. household income distribution,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_8512.png,Youth unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8539.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_8577.png,share of college graduates,other,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_8585.png,labor force participation rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_8592.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_8624.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8630.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_864.png,employment rate over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_8741.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_8760.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_877.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_8850.png,education level by population,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_8871.png,Employment by industry sector,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_8927.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_9015.png,youth unemployment rate,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_9034.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_9050.png,student dropout rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9054.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_9055.png,household income trend,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_9058.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_9059.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9095.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_9107.png,infant mortality rate,bar,Yes,Yes,Yes,No,Yes,Yes,No,positive
+statista_9108.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_9116.png,Unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_912.png,number of employees 2009-2019,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9128.png,number of prisoners by state,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_915.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9158.png,number of jobs from 2014 to 2029,bar,No,No,No,No,No,No,No,positive
+statista_9189.png,fertility rate over time,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+statista_9428.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+statista_9468.png,Education level share of population,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9473.png,household income in US dollars,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_9483.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9485.png,employment levels,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_951.png,"robbery rate per 100,000 inhabitants",bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_9512.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_9524.png,household income in U.S. dollars,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_9534.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9549.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9551.png,household income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+statista_957.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9591.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9601.png,life expectancy at birth,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+statista_9625.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_9632.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9640.png,number of rough sleepers,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_9670.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9706.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9761.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_9798.png,school-age children percentage,bar,Yes,Yes,Yes,Yes,Yes,Yes,No,negative
+statista_9887.png,weekly work hours distribution,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_9917.png,global employment numbers,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+statista_9922.png,employee compensation by industry,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+statista_9945.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+statista_9963.png,median annual wage by occupation,other,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+statista_999.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+statista_9991.png,disposable income in euros,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_100.png,Number of hospital beds,bar,No,No,No,No,No,No,No,negative
+vst_1008.png,employment levels over years,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_101.png,import value over time,area,No,No,No,No,No,No,No,neutral
+vst_1025.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_103.png,child mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_104.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_1042.png,population response percentage,line,No,No,No,No,No,No,No,neutral
+vst_1050.png,"doctors per 10,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1086.png,population growth,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1100.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_1116.png,healthcare expenditure growth,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_112.png,literacy rates by country,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_1143.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_1144.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_1166.png,child mortality rate,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_117.png,diphtheria cases in U.S.,area,No,No,No,No,No,No,No,positive
+vst_1185.png,prisoners by offense type,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1189.png,Earnings in Canadian dollars,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_1200.png,infant mortality rate,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_1204.png,student enrollment over time,area,No,No,No,No,No,No,No,positive
+vst_1296.png,income over time,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_1306.png,child mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_131.png,Infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,negative
+vst_1324.png,fertility rate over time,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_1351.png,household income in U.S. dollars,area,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_1352.png,cause of death numbers,bar,No,No,No,No,No,No,No,neutral
+vst_1357.png,number of offenses over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1378.png,refugee numbers over time,area,Yes,Yes,Yes,Yes,Yes,No,Yes,negative
+vst_1396.png,life expectancy,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1407.png,birth rate per woman,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_1430.png,total loan volume,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1458.png,life expectancy,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1474.png,birth rate per woman,area,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_1477.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_1505.png,number of workers over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1530.png,number of children over time,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_1532.png,number of employees,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1560.png,annual number of deaths,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_1569.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_1587.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_1649.png,average duration over years,line,No,No,No,No,No,No,No,neutral
+vst_1657.png,number of victims over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_166.png,total direct premiums,area,No,No,No,No,No,No,No,neutral
+vst_1678.png,average weekly work hours,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1683.png,population size over time,line,No,No,No,No,No,No,No,neutral
+vst_1689.png,household response rate,area,No,No,No,No,No,No,No,positive
+vst_1694.png,total population over time,area,No,No,No,No,No,No,No,neutral
+vst_1701.png,life expectancy,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_1723.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_1726.png,population size over time,bar,No,No,No,No,No,No,No,neutral
+vst_1761.png,health conditions among millennials,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_1773.png,crime incidence in Italy,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_1827.png,"HIV infections per 1,000 population",bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1835.png,households over time,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_1841.png,Bleeding disorder prevalence,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_185.png,annual shipments volume,area,No,No,No,No,No,No,No,neutral
+vst_1853.png,reasons for outdoor activities,bar,No,No,No,No,No,No,No,positive
+vst_1860.png,Health-related app usage,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1875.png,count of extremist groups,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_1878.png,expenditures over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_1893.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_1895.png,child mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,negative
+vst_190.png,number of hospitals,line,No,No,No,No,No,No,No,negative
+vst_1917.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_1939.png,arts and culture spending share,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_1955.png,Age distribution of cases,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_1976.png,Religion in custodial programs,bar,Yes,Yes,Yes,Yes,No,Yes,Yes,neutral
+vst_1978.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_1988.png,population from 2015 to 2025,bar,No,No,No,No,No,No,No,neutral
+vst_1990.png,working age population share,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_20.png,population over time,bar,No,No,No,No,No,No,No,neutral
+vst_2034.png,student population by province,bar,No,No,No,No,No,No,No,neutral
+vst_2047.png,life expectancy by region,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2088.png,life expectancy at birth,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_2104.png,young adults percentage over time,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_2107.png,infant mortality rate,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_211.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_215.png,urban population share,area,No,No,No,No,No,No,No,neutral
+vst_2169.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_2180.png,Causes of death rates,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2184.png,birth rate trend,area,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_2189.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_221.png,urban population share,line,No,No,No,No,No,No,No,neutral
+vst_2220.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_2243.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_2276.png,life expectancy,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2282.png,annual death count,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_2296.png,immigrant age distribution,histogram,Yes,Yes,Yes,No,Yes,No,Yes,neutral
+vst_2323.png,Age distribution of cases,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_2325.png,number of pupils over time,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2384.png,Mortality rate trend,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_2395.png,medical costs over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_2405.png,drug trafficking cases,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2429.png,registered population over time,line,No,No,No,No,No,No,No,neutral
+vst_2443.png,full ownership share by year,bar,No,No,No,No,No,No,No,neutral
+vst_2455.png,mortgage originations,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2505.png,Causes of skills gaps,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_2531.png,Canadian student population,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_254.png,physicians percentage over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2598.png,number of unemployed people,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2640.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_266.png,annual production in tons,line,No,No,No,No,No,No,No,neutral
+vst_269.png,urban population share,area,No,No,No,No,No,No,No,neutral
+vst_2697.png,infant mortality rate,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_27.png,participant numbers over time,area,No,No,No,No,No,No,No,neutral
+vst_2709.png,median income in Canada,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_2721.png,population growth,area,No,No,No,No,No,No,No,neutral
+vst_2725.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_2731.png,employment levels over years,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2734.png,life expectancy over years,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2737.png,secondary school enrollment ratio,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2740.png,economic impact of crime,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+vst_2741.png,age distribution of murder victims,histogram,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_275.png,infant mortality rate,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_2757.png,individuals response share,line,No,No,No,No,No,No,No,neutral
+vst_278.png,age distribution of infection cases,histogram,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_281.png,annual home attendance,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2822.png,population share over time,bar,No,No,No,No,No,No,No,neutral
+vst_283.png,fertility rate,area,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_2869.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_2888.png,youth violent crime severity,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_2890.png,fertility rate over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_2946.png,average annual expenditure,area,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2948.png,Qualities valued in colleagues,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_2949.png,U.S. youth population over time,area,No,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_2964.png,annual employment levels,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3018.png,life expectancy at birth,area,No,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_3030.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_3053.png,employment share by industry,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3082.png,annual number of arrests,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3099.png,age distribution of population,bar,No,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_3146.png,Millennials' financial priorities,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_3167.png,COPD prevalence by age group,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_3174.png,prisoner population over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3177.png,Mental health symptoms frequency,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3201.png,female respondents over time,area,No,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_3223.png,mortality rate over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3252.png,extortion cases over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3283.png,armed robberies over time,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3290.png,Infant mortality rate,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_331.png,annual production in boxes,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3311.png,annual number of immigrants,line,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+vst_3317.png,youth unemployment rate,area,Yes,Yes,No,No,Yes,Yes,Yes,neutral
+vst_3332.png,birth rate per woman,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3335.png,Average weekly hours by occupation,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3349.png,annual number of fatalities,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3395.png,number of reported cases,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_34.png,Occupational injury rate by profession,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_345.png,population growth over time,area,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_347.png,infant mortality rate,area,No,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_3473.png,Disability types distribution,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3474.png,fertility rate over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3480.png,Health and wellness concerns,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3501.png,number of families over time,line,No,Yes,Yes,Yes,Yes,Yes,No,negative
+vst_3506.png,respondents by income decile,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,neutral
+vst_3519.png,infant mortality rate,line,No,Yes,Yes,No,Yes,Yes,No,negative
+vst_354.png,number of public charities,line,No,Yes,No,No,Yes,Yes,No,positive
+vst_358.png,poverty rate over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_363.png,unemployment rate,area,No,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_3634.png,life expectancy over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_364.png,Monthly number of cases,area,No,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_3663.png,number of homicides,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3665.png,life expectancy at birth,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3671.png,birth rate per woman,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3715.png,birth rate trend,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3716.png,fertility rate over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3738.png,violent crime severity index,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_375.png,production value over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3759.png,infant mortality rate,line,No,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_377.png,export value by financial year,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3771.png,at-risk-of-poverty rate,area,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_3776.png,migration numbers over time,area,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+vst_380.png,Number of physicians by specialty,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3812.png,infant mortality rate,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3815.png,Infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_385.png,household response rate,area,No,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_3850.png,birth rate over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_3896.png,birth rate per woman,line,Yes,Yes,Yes,No,Yes,Yes,No,negative
+vst_390.png,GDP growth over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3901.png,Number of children in millions,area,No,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_3908.png,employment in millions,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3921.png,annual deaths over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3943.png,fertility rate per woman,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_395.png,number of wildland fires,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_3961.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_3969.png,per capita real GDP,line,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_3974.png,"hospital beds per 1,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4004.png,foreign population over time,line,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+vst_4032.png,prison population over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4039.png,birth rate over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_405.png,employment numbers over years,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4069.png,number of housing units,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_410.png,birth rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_412.png,direct investments over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4121.png,Civilian labor force size,bar,No,Yes,No,Yes,Yes,Yes,Yes,neutral
+vst_4141.png,infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_415.png,unemployment rate,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_4163.png,reported cases over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4183.png,urban population share,area,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4188.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4212.png,student enrollment over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4228.png,monthly death count,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_423.png,birth rate over time,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_4232.png,mortality rate over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4233.png,Number of families over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_4262.png,annual emigration numbers,area,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+vst_4279.png,Crime clearance rate by type,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4285.png,population counts over time,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4303.png,causes of death,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4338.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4358.png,Infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4377.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4387.png,fertility rate,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_4391.png,birth rate trend,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_4399.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_44.png,hospital beds over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_441.png,per capita consumption,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4424.png,"Annual rate per 100,000 population",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4463.png,homicide offences by region,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4505.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4527.png,average hourly pay,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4528.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4531.png,age distribution of cases,bar,No,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_4543.png,music genre preference,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4545.png,child abuse case numbers,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4595.png,Population growth over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4619.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4622.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_464.png,population growth,line,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4640.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4663.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4667.png,homeowner equity over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4715.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4724.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4750.png,infant mortality rate,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_4769.png,divorce numbers by age group,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_4775.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4795.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4810.png,Birth rate of Hispanic population,line,Yes,No,Yes,No,Yes,Yes,No,neutral
+vst_4812.png,fertility rate,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_4838.png,Share of Hispanic students by field,bar,Yes,No,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4840.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_4841.png,unemployment rate,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4842.png,population growth over time,line,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_4851.png,annual number of offences,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_4875.png,poverty rate in Colorado,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_4895.png,femicide rates by country,bar,Yes,No,Yes,Yes,Yes,Yes,No,negative
+vst_4938.png,internet usage percentage,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_4971.png,average annual wages,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5.png,age distribution of death row prisoners,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5007.png,annual expenditure,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_502.png,physician employment and practice characteristics,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5032.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5041.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5047.png,birth rate per thousand,line,Yes,Yes,Yes,No,Yes,Yes,No,negative
+vst_506.png,life expectancy over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5068.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5082.png,At-risk-of-poverty rate,area,Yes,Yes,No,Yes,Yes,Yes,Yes,negative
+vst_5127.png,urban population share,area,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5157.png,urban population share,area,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5163.png,life expectancy over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5186.png,total healthcare expenditure,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5187.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5215.png,infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5222.png,Birth rate by region,bar,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_5236.png,mobile phone internet users,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5249.png,number of hotels,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_525.png,national debt to GDP ratio,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5256.png,average pocket money in GBP,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5258.png,annual mortality count,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_526.png,average annual wages in euros,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5271.png,Number of deaths by province,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5280.png,"arson rate per 100,000 residents",area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5281.png,university degree attainment by country,bar,Yes,No,Yes,No,Yes,Yes,Yes,neutral
+vst_5292.png,number of enterprises over years,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5309.png,Per capita real GDP,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5351.png,Number of families over time,line,No,Yes,Yes,No,Yes,Yes,No,neutral
+vst_5353.png,annual production volume,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5371.png,urban population share,line,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5376.png,median income over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5391.png,Length of paved roads,line,No,No,No,No,No,No,No,positive
+vst_5392.png,infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5399.png,total population over time,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5405.png,average age of population,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5407.png,young population share,area,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_5412.png,average weekly working hours by industry,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5428.png,crude birth rate,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_5439.png,fertility rate,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_547.png,median family income in Canada,area,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_5482.png,Annual number of graduates,bar,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_549.png,employment over time,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5498.png,Public concern areas,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5499.png,monthly new cases,line,No,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5510.png,household income trends,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_553.png,employee satisfaction rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5574.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_5582.png,youth unemployment rate,line,Yes,Yes,Yes,No,Yes,Yes,Yes,negative
+vst_5593.png,population density over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5605.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_5609.png,poverty rate of Asian families,area,Yes,No,No,Yes,Yes,Yes,Yes,positive
+vst_5624.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5649.png,annual production volume,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5660.png,infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_567.png,foreign direct investment,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_570.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_5716.png,electricity imports volume,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5738.png,annual expenditure in NOK,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_574.png,annual sales volume,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5741.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5758.png,number of hospital beds,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_576.png,fertility rate over time,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_5763.png,religious affiliation distribution,bar,Yes,Yes,Yes,Yes,No,Yes,Yes,neutral
+vst_5783.png,earnings ratio over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5785.png,internet usage percentage,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_5825.png,population in millions by year,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5832.png,cybercrime cases over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5841.png,fertility rate over time,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_5869.png,crude birth rate,line,Yes,Yes,Yes,Yes,Yes,Yes,No,neutral
+vst_5871.png,annual homicide count,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5894.png,monthly patient volume,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_5906.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5962.png,Population over time,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5964.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5965.png,population response percentage,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_5983.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_5988.png,employment levels over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_6011.png,compensation per employee,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_609.png,population share over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6112.png,Forceps usage over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_6121.png,population aged 55 to 64 years,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_613.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_6134.png,cumulative cases over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_6135.png,Cumulative deaths over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_6206.png,annual inflation rate,bar,No,Yes,Yes,No,Yes,Yes,No,neutral
+vst_621.png,unemployment rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_6223.png,Child population share,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_628.png,annual sales volume,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_631.png,birth rate per thousand,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_639.png,Annual number of deaths,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_6390.png,suicides by age in Finland,line,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_640.png,birth rate per thousand population,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_6421.png,Reinsurance losses from disasters,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_6445.png,Services sector GDP share,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_65.png,population over time,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6595.png,divorce rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6618.png,Annual household income distribution,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6619.png,household income distribution,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_671.png,reasons for not voting,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6720.png,types of stolen property,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_673.png,population size over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_6817.png,life expectancy by gender,line,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_683.png,regional unemployment rates,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_6974.png,average monthly earnings in Finland,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_700.png,population above age 15,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_702.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_7103.png,employment in agriculture sector,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_7254.png,age 65 and above population share,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_7285.png,causes of indirect obstetric death,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_73.png,household internet adoption,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_734.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_735.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_7351.png,annual family income distribution,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_7375.png,Foreign born with one parent born in Norway,area,Yes,Yes,Yes,Yes,Yes,No,Yes,neutral
+vst_738.png,number of dentists over time,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_739.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_744.png,annual income in billion dollars,bar,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_7475.png,relative poverty rate,line,Yes,Yes,No,Yes,Yes,Yes,Yes,positive
+vst_7483.png,percentage of women over time,line,Yes,Yes,Yes,Yes,Yes,Yes,No,positive
+vst_749.png,child mortality rate,line,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_7555.png,motor vehicle theft by age group,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_759.png,CO2 emissions per capita,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_763.png,medical specialty compensation,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_774.png,infant mortality rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_7769.png,employment in agriculture sector,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_7770.png,employment distribution by sector,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_782.png,number of hospital beds,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_784.png,Per capita real GDP,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_785.png,unemployment rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_7851.png,refugee admissions from Europe,line,Yes,Yes,Yes,Yes,Yes,No,Yes,positive
+vst_788.png,infant mortality rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_796.png,fertility rate over time,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_7960.png,nursery school enrollment,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_798.png,national debt to GDP ratio,bar,No,No,No,No,No,No,No,neutral
+vst_799.png,birth rate per thousand population,area,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_801.png,youth unemployment rate,area,Yes,Yes,Yes,No,Yes,Yes,Yes,positive
+vst_8104.png,household income distribution,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_811.png,total organ transplants over time,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_8136.png,emigration over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8142.png,elderly population proportion,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_8190.png,age group population share,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_821.png,annual import value,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_822.png,average university attendance cost,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8285.png,Full parole rate by year,bar,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_8391.png,cancer incidence by type,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_8459.png,15-64 years age group,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_8503.png,annual death count,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8561.png,population proportion 15-64 years,line,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_8570.png,relationship problems or loss,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8599.png,annual vision care expenditure,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_86.png,violent crime severity index by province,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8609.png,confirmed cases over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_864.png,Share in global GDP adjusted for PPP,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_8656.png,population aged 0-14 years,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_8671.png,population age 65 and older,area,Yes,Yes,Yes,No,Yes,Yes,Yes,neutral
+vst_8680.png,unemployment rate by region,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_8728.png,cumulative deaths over time,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_8785.png,outdoor activity participation rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_903.png,infant mortality rate,area,No,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_905.png,disease incidence rate,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_908.png,annual income in U.S. dollars,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_93.png,"robbery rate per 100,000 residents",line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,positive
+vst_950.png,consumer price index,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_958.png,life expectancy at birth,line,Yes,Yes,Yes,No,Yes,Yes,No,neutral
+vst_960.png,life expectancy,area,Yes,Yes,Yes,No,Yes,Yes,No,positive
+vst_967.png,cryptocurrency price trend,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_976.png,budget balance to GDP ratio,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,negative
+vst_977.png,home ownership rate,line,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_99.png,number of tribal casinos,area,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
+vst_998.png,monthly percentage change,bar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,neutral
