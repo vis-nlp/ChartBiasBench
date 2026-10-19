@@ -43,7 +43,7 @@ Extract the download if it is a ZIP archive and place the images directly in
 Run the commands below from the folder containing the three scripts:
 
 ```sh
-cd ChartBias
+cd ChartBiasBench
 ```
 
 If your terminal is already in that folder, skip this command.
